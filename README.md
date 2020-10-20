@@ -1,2 +1,2 @@
-Hi there 👋
-![](bg.gif)
+
+![](giphy.gif)
