@@ -1,1 +1,1 @@
-![test image size](giphy.gif){:height="50%" width="50%"}
+![](giphy.gif | width=100px)
