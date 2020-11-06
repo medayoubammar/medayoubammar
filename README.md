@@ -1,1 +1,2 @@
-![](giphy.gif | width=100px)
+
+.![test image size](giphy.gif){:class="img-responsive"}
