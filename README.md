@@ -1,1 +1,1 @@
-![test image size](giphy.gif){:class="img-responsive"}
+![test image size](giphy.gif){:height="50%" width="50%"}
