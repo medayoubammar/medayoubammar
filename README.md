@@ -1,2 +1,2 @@
 
-![](giphy.gif)
+![](giphy.gif  | width=100 )
