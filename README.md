@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   </div>
-<p align="center">
+<p>
   <img width="200" height="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 </p>
 
