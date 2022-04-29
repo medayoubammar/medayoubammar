@@ -1,6 +1,6 @@
 <div class="container">
    <a href="https://ammar-med-ayoub.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/My portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 <a href="https://www.linkedin.com/in/mohammed-ayoub-ammar-1a6886177" target="_blank">
   <img src="https://img.shields.io/badge/Mohammed Ayoub AMMAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
