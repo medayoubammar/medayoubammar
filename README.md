@@ -11,8 +11,9 @@
   </div>
 
 <p>
- <pre>                                      </pre>
+ 
   <img width="200" height="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+   <pre>                                      </pre>
 </p>
 
 <div class="container">
