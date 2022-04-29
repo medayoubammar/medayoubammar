@@ -10,11 +10,11 @@
   
   </div>
 
-<p>
+
  
   <img width="200" height="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
    <pre>                                      </pre>
-</p>
+
 
 <div class="container">
  <a href="#"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
