@@ -13,7 +13,7 @@
 
  
   <img width="100" height="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
-  <iframe src="https://giphy.com/embed/3o7qDPxorBbvpB1Pby" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/liquid-bubble-goo-3o7qDPxorBbvpB1Pby">via GIPHY</a></p>
+<img width="150" height="150" src="https://media3.giphy.com/media/3o7qDPxorBbvpB1Pby/giphy.gif?cid=790b761168e295467224414f0e4fa7f37b4b46f97d3c886e&rid=giphy.gif&ct=g" >
 
 
 <div class="container">
