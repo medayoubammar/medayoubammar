@@ -11,10 +11,10 @@
   </div>
 
 
- 
+ <div>
   <img width="100" height="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
-<img width="150" height="150" src="https://media3.giphy.com/media/3o7qDPxorBbvpB1Pby/giphy.gif?cid=790b761168e295467224414f0e4fa7f37b4b46f97d3c886e&rid=giphy.gif&ct=g" >
-
+<span><img width="150" height="150" src="https://media3.giphy.com/media/3o7qDPxorBbvpB1Pby/giphy.gif?cid=790b761168e295467224414f0e4fa7f37b4b46f97d3c886e&rid=giphy.gif&ct=g" > </span>
+</div>
 
 <div class="container">
  <a href="https://ammar-med-ayoub.netlify.app"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
