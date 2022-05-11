@@ -23,8 +23,7 @@
 
  <img width="100" height="100" src="https://media1.giphy.com/media/3oKIPovaivfg1vZ6es/giphy.gif?cid=ecf05e47hd4z6ihnwa1dlkqrnhe38q6drzhdsflnazyzx38b&rid=giphy.gif&ct=g"> 
 </div>
-<br>
-<br>
+
 <hr>
 <div class="container">
 
