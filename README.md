@@ -13,11 +13,21 @@
 
   
   </div>
-
+<br>
 
  <div>
-<span><img width="200" height="200" src="https://media3.giphy.com/media/7lsZsFdEijZrW/giphy.gif?cid=ecf05e472dcim6yg7caob6qekiyri0aakq50o2sgct7sb7e4&rid=giphy.gif&ct=g"> </span>
-   <span>  <img width="200" height="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"> </span>
+<span><img width="100" height="100" src="https://media3.giphy.com/media/7lsZsFdEijZrW/giphy.gif?cid=ecf05e472dcim6yg7caob6qekiyri0aakq50o2sgct7sb7e4&rid=giphy.gif&ct=g"> </span>
+   <span>  <img width="100" height="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"> </span>
 
- <img width="200" height="200" src="https://media1.giphy.com/media/3oKIPovaivfg1vZ6es/giphy.gif?cid=ecf05e47hd4z6ihnwa1dlkqrnhe38q6drzhdsflnazyzx38b&rid=giphy.gif&ct=g"> 
+ <img width="100" height="100" src="https://media1.giphy.com/media/3oKIPovaivfg1vZ6es/giphy.gif?cid=ecf05e47hd4z6ihnwa1dlkqrnhe38q6drzhdsflnazyzx38b&rid=giphy.gif&ct=g"> 
 </div>
+<br>
+<br>
+
+<div class="container">
+
+ <a href="https://ammar-med-ayoub.netlify.app"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href="https://ammar-med-ayoub.netlify.app"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a href="https://ammar-med-ayoub.netlify.app"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" /></a>
+  </div>
+
