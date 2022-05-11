@@ -1,4 +1,5 @@
 <div class="container">
+   <p> Contact me from her ! :</p> 
    <a href="https://ammar-med-ayoub.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/My portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
